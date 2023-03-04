@@ -1,3 +1,3 @@
-## Linear and Multi-linerar regression
-This file contains a presentation on Linear and Multi-linerar regression made by Sampada Kharel & Subina Maharjan
+## Linear and Multi-linear regression
+This file contains a presentation on Linear and Multi-linear regression made by Sampada Kharel & Subina Maharjan
 
